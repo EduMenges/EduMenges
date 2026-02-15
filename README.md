@@ -23,3 +23,7 @@ A rough clone of Overcooked, Undercooked, because under cooked it was. Various b
 ### [Fundamentals of Image Processing final project](https://github.com/EduMenges/FPI)
 
 This is a basic image editing software, allowing linear operations and convolution. I used Rust and eGUI to implement everything and it surprisingly works.
+
+### [Data Classification and Search projects](https://github.com/EduMenges/CPD)
+
+Includes various implementations of sorting algorithms made in Rust and a final project involving an adhoc in-memory database for specific searches. I was able to make them the fastest of the class, beating even the C++ projects, by clever usage of memory layout and Rust's iterators.
