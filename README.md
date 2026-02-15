@@ -24,6 +24,10 @@ A rough clone of Overcooked, Undercooked, because under cooked it was. Various b
 
 This is a basic image editing software, allowing linear operations and convolution. I used Rust and eGUI to implement everything and it surprisingly works.
 
+### [MIDI Player](https://github.com/EduMenges/tcp)
+
+Ok this a fun one. We made a MIDI player in Rust that takes a sequence of text and converts them in playable notes, for our Techniques in Programs Construction course. Why Rust? Well in hindsight it was a bad idea because there weren't good libraries for it, but we made it work after some sacrifice.
+
 ### [Data Classification and Search projects](https://github.com/EduMenges/CPD)
 
 Includes various implementations of sorting algorithms made in Rust and a final project involving an adhoc in-memory database for specific searches. I was able to make them the fastest of the class, beating even the C++ projects, by clever usage of memory layout and Rust's iterators.
